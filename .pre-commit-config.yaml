@@ -43,6 +43,6 @@ repos:
   - id: yapf
     args: [-i]
 - repo: https://github.com/PyCQA/isort
-  rev: 5.13.0
+  rev: 5.13.2
   hooks:
   - id: isort
